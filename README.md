@@ -10,3 +10,4 @@ https://github.com/Hanishka7/23CSBTB29/blob/main/LAB_ASSIGNMENT_6.ipynb
 https://github.com/Hanishka7/23CSBTB29/blob/main/SVM.ipynb
 https://github.com/Hanishka7/23CSBTB29/blob/main/DecisionTree.ipynb
 https://github.com/Hanishka7/23CSBTB29/blob/main/Randomforest.ipynb
+https://github.com/Hanishka7/23CSBTB29/blob/main/LABEXAM_DecisionTree.ipynb
